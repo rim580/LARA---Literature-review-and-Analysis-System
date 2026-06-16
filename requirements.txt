@@ -1,0 +1,10 @@
+gradio
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+pymupdf4llm
+sentence-transformers
+langchain-text-splitters
+nest_asyncio
