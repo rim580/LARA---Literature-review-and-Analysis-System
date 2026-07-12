@@ -7,8 +7,6 @@ LARA a smart research paper assistant leverages   **Large Language Models (LLMs)
 
 The system extracts content from academic PDFs, identifies important sections, generates section-wise summaries, and allows users to ask questions about the paper through a conversational AI interface.
 
-The project combines **Natural Language Processing, Deep Learning, Vector Databases, and Generative AI** to reduce the time and effort required for research paper analysis.
-
 ---
 
 #  Features
