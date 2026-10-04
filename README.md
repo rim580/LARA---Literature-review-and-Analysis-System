@@ -112,8 +112,6 @@ Future enhancements may include:
 
 ---
 
-# 📜 License
 
-This project is created for educational and research purposes.
 
 
