@@ -20,7 +20,7 @@ The system extracts content from academic PDFs, identifies important sections, g
 
 ##  Section-wise Summarisation
 
-Instead of summarizing the entire paper at once, LARA generates focused summaries for individual sections to procide
+
 * Better understanding of paper structure
 * More detailed explanations
 * Reduced information overload
