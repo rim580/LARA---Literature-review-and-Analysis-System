@@ -98,7 +98,6 @@ Future enhancements may include:
 * Citation extraction
 * Research gap detection
 * Knowledge graph generation
-* Automatic literature review generation
 * Local LLM deployment
 * Hybrid search using BM25 + embeddings
 
