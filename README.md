@@ -34,7 +34,7 @@ Example questions:
 * "What is the main contribution of this paper?"
 * "Which dataset was used?"
 * "What are the limitations of this approach?"
-* "How does this method compare with existing techniques?"
+
 
 The system retrieves relevant information from the paper and generates answers using an LLM.
 ---
